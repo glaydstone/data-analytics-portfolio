@@ -58,3 +58,4 @@ governança, qualidade de dados e suporte à tomada de decisão executiva.
 ## 📫 Contato
 📧 glaydstone.a.teixeira@gmail.com  
 🔗 LinkedIn
+https://www.linkedin.com/in/glaydstone-teixeira-3ab17832/
